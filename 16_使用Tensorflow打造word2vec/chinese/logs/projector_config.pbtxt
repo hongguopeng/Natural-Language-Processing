@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embeddings/Variable:0"
+  metadata_path: "C:\\Users\\peng\\Desktop\\NLP\\11_Tensorflow\350\207\252\345\267\261\346\211\223\351\200\240word2vec\\chinese//logs//metadata.tsv"
+}
